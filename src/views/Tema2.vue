@@ -33,38 +33,38 @@
 
     .row.justify-content-center.mt-4
       .row.justify-content-center
-        .col-lg-2
-          .crd.bg-14.bg-r8.p-4.tj-w-fix
+        .col-lg-2.d-flex.mt-4.mt-lg-0
+          .crd.bg-14.bg-r8.p-4.h-100.w-100
             figure.mb-2(data-aos="zoom-in")
               img(src='@/assets/curso/tema2/3.svg', style='width: 40px')
             p.mb-0 Derecho a la vida y a la integridad física y mental.
   
-        .col-lg-2.mt-lg-0.mt-4
-          .crd.bg-14.bg-r8.p-4.tj-w-fix
+        .col-lg-2.d-flex.mt-4.mt-lg-0
+          .crd.bg-14.bg-r8.p-4.h-100.w-100
             figure.mb-2(data-aos="zoom-in")
               img(src='@/assets/curso/tema2/4.svg', style='width: 40px')
             p.mb-0 En la parte central del párrafo
   
-        .col-lg-2.mt-lg-0.mt-4
-          .crd.bg-14.bg-r8.p-4.tj-w-fix
+        .col-lg-2.d-flex.mt-4.mt-lg-0
+          .crd.bg-14.bg-r8.p-4.h-100.w-100
             figure.mb-2(data-aos="zoom-in")
               img(src='@/assets/curso/tema2/5.svg', style='width: 40px')
             p.mb-0 Derecho a la libertad y a la autonomía personal.
 
-        .col-lg-2
-          .crd.bg-14.bg-r8.p-4.tj-w-fix
+        .col-lg-2.d-flex.mt-4.mt-lg-0
+          .crd.bg-14.bg-r8.p-4.h-100.w-100
             figure.mb-2(data-aos="zoom-in")
               img(src='@/assets/curso/tema2/6.svg', style='width: 40px')
             p.mb-0 Derecho a la igualdad y a la no discriminación.
   
-        .col-lg-2.mt-lg-0.mt-4
-          .crd.bg-14.bg-r8.p-4.tj-w-fix
+        .col-lg-2.d-flex.mt-4.mt-lg-0
+          .crd.bg-14.bg-r8.p-4.h-100.w-100
             figure.mb-2(data-aos="zoom-in")
               img(src='@/assets/curso/tema2/7.svg', style='width: 40px')
             p.mb-0 Derecho al libre desarrollo de la personalidad.
   
-        .col-lg-2.mt-lg-0.mt-4
-          .crd.bg-14.bg-r8.p-4.tj-w-fix
+        .col-lg-2.d-flex.mt-4.mt-lg-0
+          .crd.bg-14.bg-r8.p-4.h-100.w-100
             figure.mb-2(data-aos="zoom-in")
               img(src='@/assets/curso/tema2/8.svg', style='width: 40px')
             p.mb-0 Derecho al más alto nivel posible de salud física y mental.
