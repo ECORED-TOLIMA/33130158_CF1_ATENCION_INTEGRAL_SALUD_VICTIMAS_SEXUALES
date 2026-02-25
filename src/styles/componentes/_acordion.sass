@@ -22,9 +22,8 @@
           left: 50%
           transform: translate(-50%,-50%)
 
-
       &--a
-        background-color: $white
+        background-color: $color-acento-botones
         box-shadow: 0px 3px 5px 0px rgba($color-sistema-a,0.3)
 
       &--b
@@ -36,5 +35,18 @@
     overflow: hidden
     transition: height 0.5s ease-in-out
 
-  .indicador__container
-    transform: translateY(15px)
+  &.color-primario
+    .acordion__activo 
+      background-color: #FFFBE6 !important
+      color: black !important    
+    
+    .acordion__accion__btn--b
+      color: $white
+      background-color: $color-acento-botones !important
+
+    .indicador__container
+      transform: translateY(15px)
+
+    .tarjeta--azul
+      background-color: #E2E1EE
+

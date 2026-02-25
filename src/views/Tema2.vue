@@ -77,7 +77,7 @@
       .col-lg-9
         p El enfoque de derechos humanos orienta la atención en salud hacia la protección de la dignidad, la autonomía y el bienestar integral. En el sector salud, su aplicación implica:
 
-        .row.mt-2.bg-base.p-3.bg-r8
+        .row.mt-2.bg-base.p-3.bg-1.bg-r8
           .col-12
             ul.lista-ul--color
               li.d-flex.align-items-start
@@ -177,7 +177,7 @@
                   img(src='@/assets/curso/tema2/15.svg', alt='Ideas generales', style='width: 80px')
           p.mb-0 Embarazos no deseados.
 
-      .col-lg-3
+      .col-lg-3.mb-4.mb-lg-0
         .tarjeta.clr-paleYellow.p-4.text-center.bg-15.h-100
           .row.justify-content-center.mb-3
             .col-auto
@@ -224,28 +224,27 @@
           
           .row(numero="2" titulo="Asalto sexual o violación")
             .col-md-12.mb-4.mb-md-0
-              p.text-small Asalto sexual o violación: comprende el acceso carnal o los actos sexuales forzados mediante violencia física, intimidación o coerción, y puede ocurrir en ámbitos familiares, comunitarios, laborales, educativos o institucionales.
+              p.text-small Comprende el acceso carnal o los actos sexuales forzados mediante violencia física, intimidación o coerción, y puede ocurrir en ámbitos familiares, comunitarios, laborales, educativos o institucionales.
 
           .row(numero="3" titulo="Violencia sexual intrafamiliar")
             .col-md-12.mb-4.mb-md-0
-              p.text-small Violencia sexual intrafamiliar: se presenta cuando los actos de violencia sexual son cometidos por integrantes del núcleo familiar o personas con vínculos cercanos, lo que incrementa el riesgo de cronicidad, silenciamiento y revictimización.
-
+              p.text-small Se presenta cuando los actos de violencia sexual son cometidos por integrantes del núcleo familiar o personas con vínculos cercanos, lo que incrementa el riesgo de cronicidad, silenciamiento y revictimización.
 
           .row(numero="4" titulo="Violencia sexual en la pareja")
             .col-md-12.mb-4.mb-md-0
-              p.text-small Violencia sexual en la pareja: incluye cualquier acto sexual no consentido dentro de relaciones de pareja actuales o anteriores, independientemente del estado civil o la convivencia.
+              p.text-small Incluye cualquier acto sexual no consentido dentro de relaciones de pareja actuales o anteriores, independientemente del estado civil o la convivencia.
 
           .row(numero="5" titulo="Trata de personas")
             .col-md-12.mb-4.mb-md-0
-              p.text-small Explotación sexual: consiste en la utilización del cuerpo de una persona, especialmente de niñas, niños y adolescentes, con fines comerciales o de beneficio económico, incluyendo la pornografía y la prostitución forzada.
+              p.text-small Implica la captación, transporte, traslado, acogida o recepción de personas mediante engaño, coerción o abuso de poder, con el propósito de explotación sexual.
 
           .row(numero="6" titulo="Violencia sexual en conflicto armado")
             .col-md-12.mb-4.mb-md-0
-              p.text-small Trata de personas: implica la captación, transporte, traslado, acogida o recepción de personas mediante engaño, coerción o abuso de poder, con el propósito de explotación sexual.
+              p.text-small Incluye actos de violencia sexual utilizados como estrategia de control, intimidación o dominación sobre comunidades y poblaciones específicas.
 
           .row(numero="7" titulo="Violencia contra diversidad de género")
             .col-md-12.mb-4.mb-md-0
-              p.text-small Violencia sexual en conflicto armado: incluye actos de violencia sexual utilizados como estrategia de control, intimidación o dominación sobre comunidades y poblaciones específicas.
+              p.text-small Se manifiesta como una forma de violencia basada en prejuicios, discriminación y estigmatización.
 
       .col-lg-3.d-none.d-lg-block
         figure(data-aos="fade-up")
