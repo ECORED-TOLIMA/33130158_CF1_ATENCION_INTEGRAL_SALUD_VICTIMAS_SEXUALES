@@ -8,7 +8,7 @@
       h1 Caracterización epidemiológica de las violencias sexuales
 
     .row.align-items-center
-      .col-lg-9.bg-14.bg-r8.p-3
+      .col-lg-9.bg-3.bg-r8.p-3
 
         figure
           img(src="@/assets/curso/tema3/1.svg", alt="", style="width: 80px")
@@ -222,7 +222,7 @@
       .col-lg-8.bg-r8.p-3
         p.mt-3 La distribución de las violencias sexuales según los contextos de ocurrencia es un elemento fundamental para comprender este fenómeno desde la perspectiva de la salud pública y orientar de manera adecuada las acciones de detección, atención integral y prevención. El análisis por contextos permite identificar escenarios de mayor riesgo, reconocer barreras de acceso a los servicios de salud y definir intervenciones pertinentes, en coherencia con los lineamientos vigentes de vigilancia epidemiológica y atención integral.
 
-        p.mt-3Las violencias sexuales pueden presentarse en diversos contextos, cada uno con características particulares que requieren respuestas diferenciadas por parte del sector salud:
+        p.mt-3 Las violencias sexuales pueden presentarse en diversos contextos, cada uno con características particulares que requieren respuestas diferenciadas por parte del sector salud:
         
       .col-lg-4.d-none.d-lg-block
         figure
@@ -285,6 +285,313 @@
               li.d-flex.align-items-start
                 i.lista-ul__vineta
                 p.mb-0 El sector salud debe garantizar atención integral con enfoque diferencial y articular su actuación con las rutas establecidas para la atención a víctimas del conflicto armado.
+
+    .row.justify-content-center.mt-2
+      .col-lg-10.d-flex.mt-4.mt-lg-0
+        .row.justify-content-center.mt-4.bg-14.p-3
+          p La identificación de los contextos de ocurrencia no tiene como propósito clasificar ni jerarquizar a las personas víctimas, sino orientar la respuesta institucional, fortalecer la capacidad del sector salud y mejorar la calidad, pertinencia y oportunidad de la atención. Este análisis contribuye, además, a la formulación de acciones de prevención y al fortalecimiento de los procesos de atención, en coherencia con los principios de la salud pública y la normatividad vigente.
+    
+    separador
+    #t_3_4.titulo-segundo.color-acento-contenido
+      h2 3.4 Factores de riesgo asociados a las violencias sexuales
+
+    .bloque-texto-g.bg-16.p-3.p-sm-4.p-md-5
+          .bloque-texto-g__img(
+            :style="{'background-image': `url(${require('@/assets/curso/tema3/21.png')})`}"
+          )
+          .bloque-texto-g__texto.p-4
+            p.mb-0 La identificación de los factores de riesgo asociados a las violencias sexuales es un componente esencial para el abordaje desde la salud pública, ya que permite reconocer las condiciones que incrementan la vulnerabilidad de las personas y los contextos en los que estas violencias ocurren con mayor frecuencia. Este análisis no busca explicar ni justificar la violencia, sino orientar las acciones de promoción de la salud, prevención, detección temprana y atención integral, fortaleciendo la respuesta institucional del sector salud en coherencia con el enfoque de derechos humanos, de género y diferencial.
+
+    p.mt-4.mb-4 El siguiente recurso organiza los factores de riesgo asociados a las violencias sexuales en niveles estructurales, familiares, individuales y contextuales, lo que permite analizar cómo interactúan en la generación de vulnerabilidades.
+
+    .row.justify-content-center.mt-4
+      .col-lg-3.mb-4.mb-lg-0
+        .tarjeta.clr-paleYellow.p-4.text-center.bg-15.h-100
+          .row.justify-content-center.mb-3
+            .col-auto
+              .circle-morado
+                figure(data-aos="zoom-in")
+                  img(src='@/assets/curso/tema3/22.svg', alt='Estructura lógica', style='width: 80px')
+          
+          titulo-tres.mt-3
+            b S - Factores estructurales (Sociales)
+              ul.lista-ul--color.mt-4
+                li.d-flex.align-items-start
+                  i.lista-ul__vineta
+                  p.mb-0.text-start Desigualdades de género
+                  
+                li.d-flex.align-items-start
+                  i.lista-ul__vineta
+                  p.mb-0.text-start Relaciones de poder asimétricas
+                  
+                li.d-flex.align-items-start
+                  i.lista-ul__vineta
+                  p.mb-03.text-start Discriminación y exclusión social
+
+                li.d-flex.align-items-start
+                  i.lista-ul__vineta
+                  p.mb-03.text-start Condiciones de pobreza
+
+                li.d-flex.align-items-start
+                  i.lista-ul__vineta
+                  p.mb-03.text-start Normalización de la violencia
+
+      .col-lg-3.mb-4.mb-lg-0
+        .tarjeta.clr-paleYellow.p-4.text-center.bg-15.h-100
+          .row.justify-content-center.mb-3
+            .col-auto
+              .circle-morado
+                figure(data-aos="zoom-in")
+                  img(src='@/assets/curso/tema3/23.svg', alt='Ideas generales', style='width: 80px')
+          
+          titulo-tres.mt-3
+            b M – Factores familiares y relacionales (Microsociales)
+              ul.lista-ul--color.mt-4
+                li.d-flex.align-items-start
+                  i.lista-ul__vineta
+                  p.mb-0.text-start Violencia intrafamiliar
+                  
+                li.d-flex.align-items-start
+                  i.lista-ul__vineta
+                  p.mb-0.text-start Dependencia emocional o económica
+                  
+                li.d-flex.align-items-start
+                  i.lista-ul__vineta
+                  p.mb-03.text-start Antecedentes de maltrato
+
+                li.d-flex.align-items-start
+                  i.lista-ul__vineta
+                  p.mb-03.text-start Consumo problemático de alcohol u otras SPA
+
+                li.d-flex.align-items-start
+                  i.lista-ul__vineta
+                  p.mb-03.text-start Ausencia de redes de apoyo
+
+      .col-lg-3.mb-4.mb-lg-0
+        .tarjeta.clr-paleYellow.p-4.text-center.bg-15.h-100
+          .row.justify-content-center.mb-3
+            .col-auto
+              .circle-morado
+                figure(data-aos="zoom-in")
+                  img(src='@/assets/curso/tema3/24.svg', alt='Ideas principales', style='width: 80px')
+
+          titulo-tres.mt-3
+            b A – Factores individuales (Atención diferencial)
+              ul.lista-ul--color.mt-4
+                li.d-flex.align-items-start
+                  i.lista-ul__vineta
+                  p.mb-0.text-start Edad (niñez, adolescencia, adultez mayor)
+                  
+                li.d-flex.align-items-start
+                  i.lista-ul__vineta
+                  p.mb-0.text-start Discapacidad
+                  
+                li.d-flex.align-items-start
+                  i.lista-ul__vineta
+                  p.mb-03.text-start Dependencia para el cuidado
+
+                li.d-flex.align-items-start
+                  i.lista-ul__vineta
+                  p.mb-03.text-start Aislamiento social
+
+                li.d-flex.align-items-start
+                  i.lista-ul__vineta
+                  p.mb-03.text-start Crisis emocional o psicológica
+
+      .col-lg-3
+        .tarjeta.clr-paleYellow.p-4.text-center.bg-15.h-100
+          .row.justify-content-center.mb-3
+            .col-auto
+              .circle-morado
+                figure(data-aos="zoom-in")
+                  img(src='@/assets/curso/tema3/25.svg', alt='Ideas principales', style='width: 80px')
+          
+          titulo-tres.mt-3
+            b R–T – Factores contextuales y ambientales (Riesgo territorial)
+              ul.lista-ul--color.mt-4
+                li.d-flex.align-items-start
+                  i.lista-ul__vineta
+                  p.mb-0.text-start Inseguridad en espacios públicos y privados
+                  
+                li.d-flex.align-items-start
+                  i.lista-ul__vineta
+                  p.mb-0.text-start Falta de entornos protectores
+                  
+                li.d-flex.align-items-start
+                  i.lista-ul__vineta
+                  p.mb-03.text-start Presencia de economías ilegales
+
+                li.d-flex.align-items-start
+                  i.lista-ul__vineta
+                  p.mb-03.text-start Conflicto armado y violencia sociopolítica
+
+                li.d-flex.align-items-start
+                  i.lista-ul__vineta
+                  p.mb-03.text-start Debilidad institucional en prevención y control
+
+    separador
+    #t_3_5.titulo-segundo.color-acento-contenido
+      h2 3.5 Subregistro y barreras de acceso a los servicios de salud
+
+    .row.align-items-center
+      .col-lg-8.bg-14.p-3
+        p.mt-4 El subregistro de las violencias sexuales constituye una de las principales limitaciones para dimensionar la magnitud real del fenómeno y orientar de manera efectiva las acciones de prevención, detección, atención integral y seguimiento desde la salud pública. Una proporción significativa de los casos no accede oportunamente a los servicios de salud ni es incorporada a los sistemas de vigilancia, lo que debilita la respuesta institucional y la protección de los derechos de las personas víctimas.
+      
+      .col-lg-4.d-none.d-lg-block
+        figure
+          img(src='@/assets/curso/tema3/26.svg', alt='', style="width: 400px").m-auto
+    
+    p.mt-4.mb-4 Este fenómeno está asociado a múltiples factores individuales, sociales e institucionales que es fundamental reconocer para fortalecer la respuesta del sector salud. A continuación, se presentan los principales:
+
+    .row.justify-content-center
+      .col-lg-12
+        .row
+          .col-lg-6.mb-4.mb-lg-0
+            .tarjeta.bg-1.p-4.p-md-5.h-100
+              h4.mt-3 El subregistro está asociado a múltiples factores individuales, familiares, sociales e institucionales, entre los cuales se destacan:
+              
+              b.mb-0.text-start Factores personales y sociales
+                ul.lista-ul--color
+                  li.d-flex.align-items-start
+                    i.lista-ul__vineta
+                    p.mb-0.text-start Miedo a represalias por parte de la persona agresora.
+                    
+                  li.d-flex.align-items-start
+                    i.lista-ul__vineta
+                    p.mb-0.text-start Vergüenza, culpa o estigmatización social.
+                    
+                  li.d-flex.align-items-start
+                    i.lista-ul__vineta
+                    p.mb-03.text-start Normalización de la violencia sexual en ciertos entornos.
+
+                  li.d-flex.align-items-start
+                    i.lista-ul__vineta
+                    p.mb-03.text-start Dependencia emocional o económica frente al agresor.
+
+                  li.d-flex.align-items-start
+                    i.lista-ul__vineta
+                    p.mb-03.text-start Aislamiento social o ausencia de redes de apoyo.
+
+              b.mb-0 Percepciones y experiencias frente a la atención institucional
+                ul.lista-ul--color
+                  li.d-flex.align-items-start
+                    i.lista-ul__vineta
+                    p.mb-0.text-start Desconfianza en los servicios de salud y en otras instituciones.
+                    
+                  li.d-flex.align-items-start
+                    i.lista-ul__vineta
+                    p.mb-0.text-start Experiencias previas de trato inadecuado o revictimizante.
+                    
+                  li.d-flex.align-items-start
+                    i.lista-ul__vineta
+                    p.mb-03.text-start Temor a la exposición de la información personal.
+
+                  li.d-flex.align-items-start
+                    i.lista-ul__vineta
+                    p.mb-03.text-start Creencia de que la atención está condicionada a la denuncia.
+
+              .col.d-none.d-lg-block
+                figure(data-aos="zoom-in")
+                  img(src='@/assets/curso/tema3/27.svg', alt='', style="width: 400px").m-auto
+          .col-lg-6
+            .tarjeta.bg-3.p-4.p-md-5.h-100
+              h4.mt-3 Las barreras de acceso a los servicios de salud constituyen otro factor determinante del subregistro y pueden presentarse en diferentes niveles:
+              
+              b.mb-0.text-start Barreras geográficas y económicas
+                ul.lista-ul--color
+                  li.d-flex.align-items-start
+                    i.lista-ul__vineta
+                    p.mb-0.text-start Lejanía de los servicios de salud.
+                    
+                  li.d-flex.align-items-start
+                    i.lista-ul__vineta
+                    p.mb-0.text-start Dificultades de transporte o costos asociados al desplazamiento.
+                    
+              b.mb-0 Barreras administrativas e institucionales
+                ul.lista-ul--color
+                  li.d-flex.align-items-start
+                    i.lista-ul__vineta
+                    p.mb-0.text-start Trámites innecesarios o dilaciones en la atención.
+                    
+                  li.d-flex.align-items-start
+                    i.lista-ul__vineta
+                    p.mb-0.text-start Exigencia indebida de requisitos previos.
+
+                  li.d-flex.align-items-start
+                    i.lista-ul__vineta
+                    p.mb-0.text-start Falta de disponibilidad de personal capacitado.
+
+                  li.d-flex.align-items-start
+                    i.lista-ul__vineta
+                    p.mb-0.text-start Horarios de atención limitados o inadecuados.
+
+              b.mb-0 Barreras culturales y comunicativas
+                ul.lista-ul--color
+                  li.d-flex.align-items-start
+                    i.lista-ul__vineta
+                    p.mb-0.text-start Falta de información clara sobre los derechos en salud.
+                    
+                  li.d-flex.align-items-start
+                    i.lista-ul__vineta
+                    p.mb-0.text-start Ausencia de enfoque diferencial según edad, género, discapacidad o contexto.
+
+                  li.d-flex.align-items-start
+                    i.lista-ul__vineta
+                    p.mb-0.text-start Lenguaje técnico o poco comprensible para las personas usuarias.
+
+    .row.align-items-center.mt-4
+      .col-lg-9.bg-17.bg-r8.p-5
+        b.mt-4 El subregistro también se relaciona con dificultades en los procesos internos del sector salud, tales como:
+        ul.lista-ul--color
+          li.d-flex.align-items-start
+            i.lista-ul__vineta
+            p.mb-0.text-start Limitaciones en la identificación temprana de signos de alerta.
+            
+          li.d-flex.align-items-start
+            i.lista-ul__vineta
+            p.mb-0.text-start Desconocimiento de los procedimientos de notificación.
+
+          li.d-flex.align-items-start
+            i.lista-ul__vineta
+            p.mb-0.text-start Percepción errónea de la vigilancia en salud pública como un mecanismo sancionatorio.
+
+          li.d-flex.align-items-start
+            i.lista-ul__vineta
+            p.mb-0.text-start Falta de articulación entre los servicios de atención y los sistemas de información.
+
+      .col-lg-3.d-none.d-lg-block
+        figure
+          img(src='@/assets/curso/tema3/28.svg', alt='', style="width: 290px").m-auto
+
+    .row.align-items-center.mt-4
+      .col-lg-4.d-none.d-lg-block
+        figure
+          img(src='@/assets/curso/tema3/29.svg', alt='', style="width: 340px").m-auto
+      .col-lg-8.bg-1.bg-r8.p-5
+        b.mt-4 La superación del subregistro y de las barreras de acceso requiere una respuesta integral del sector salud, orientada a:
+        
+        ul.lista-ul--color.mt-4
+          li.d-flex.align-items-start
+            i.lista-ul__vineta
+            p.mb-0.text-start Fortalecer las capacidades del talento humano en detección y atención.
+            
+          li.d-flex.align-items-start
+            i.lista-ul__vineta
+            p.mb-0.text-start Garantizar una atención humanizada, confidencial y libre de juicios.
+
+          li.d-flex.align-items-start
+            i.lista-ul__vineta
+            p.mb-0.text-start Mejorar la oportunidad y calidad de la atención.
+
+          li.d-flex.align-items-start
+            i.lista-ul__vineta
+            p.mb-0.text-start Promover la confianza en los servicios de salud.
+
+          li.d-flex.align-items-start
+            i.lista-ul__vineta
+            p.mb-0.text-start Fortalecer la vigilancia en salud pública como herramienta de protección y prevención.
+  
+    p.mt-4 El abordaje del subregistro y de las barreras de acceso es un componente esencial de la respuesta institucional frente a las violencias sexuales, ya que contribuye a mejorar la atención integral, fortalecer la vigilancia epidemiológica y garantizar el restablecimiento de derechos de las personas víctimas.
 
 
 </template>
