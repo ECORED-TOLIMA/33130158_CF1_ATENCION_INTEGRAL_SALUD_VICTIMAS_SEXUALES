@@ -122,7 +122,163 @@
 
       .col-lg-3.d-none.d-lg-block
         figure(data-aos="fade-down")
-          img(src='@/assets/curso/tema5/8.svg', alt='', style="width: 290px").m-auto
+          img(src='@/assets/curso/tema5/8.png', alt='', style="width: 290px").m-auto
+
+
+    p.mt-4 En la atención en salud, la aplicación del enfoque de género implica:
+
+    .row.justify-content-center.mt-4
+      .row.justify-content-center
+        .col-lg-2.d-flex.mt-4.mt-lg-0
+          .crd.bg-14.bg-r8.p-4.h-100.w-100
+            figure.mb-2(data-aos="zoom-in")
+              img(src='@/assets/curso/tema5/9.svg', style='width: 40px')
+            p.mb-0 Garantizar el acceso a servicios de salud sexual y reproductiva.
+  
+        .col-lg-2.d-flex.mt-4.mt-lg-0
+          .crd.bg-14.bg-r8.p-4.h-100.w-100
+            figure.mb-2(data-aos="zoom-in")
+              img(src='@/assets/curso/tema5/10.svg', style='width: 40px')
+            p.mb-0 Brindar una atención libre de juicios morales y estigmatización.
+
+        .col-lg-2.d-flex.mt-4.mt-lg-0
+          .crd.bg-14.bg-r8.p-4.h-100.w-100
+            figure.mb-2(data-aos="zoom-in")
+              img(src='@/assets/curso/tema5/11.svg', style='width: 40px')
+            p.mb-0 Reconocer los impactos diferenciados de la violencia sexual en mujeres, hombres y personas con identidades de género diversas.
+
+        .col-lg-2.d-flex.mt-4.mt-lg-0
+          .crd.bg-14.bg-r8.p-4.h-100.w-100
+            figure.mb-2(data-aos="zoom-in")
+              img(src='@/assets/curso/tema5/12.svg', style='width: 40px')
+            p.mb-0 Fortalecer la autonomía y la capacidad de decisión de las personas atendidas.
+
+        .col-lg-2.d-flex.mt-4.mt-lg-0
+          .crd.bg-14.bg-r8.p-4.h-100.w-100
+            figure.mb-2(data-aos="zoom-in")
+              img(src='@/assets/curso/tema5/13.svg', style='width: 40px')
+            p.mb-0 Adoptar medidas orientadas a prevenir la revictimización institucional.
+
+
+    p.mt-4 El enfoque de género, articulado con el enfoque de derechos humanos, orienta una atención en salud más equitativa, sensible y pertinente, y constituye un criterio esencial para responder de manera integral a las violencias sexuales desde el sector salud.
+
+    separador
+    #t_5_3.titulo-segundo.color-acento-contenido
+      h2 5.3 Enfoque diferencial y de ciclo vital   
+
+    .row.align-items-center
+      .col-lg-8
+        p El enfoque diferencial reconoce que las personas víctimas de violencias sexuales no son un grupo homogéneo y que factores como la edad, la discapacidad, la pertenencia étnica, la orientación sexual, la identidad de género y las condiciones socioeconómicas influyen en la forma en que se vive la violencia y en las necesidades de atención. Este enfoque se encuentra respaldado por la Constitución Política y desarrollado en normas como la Ley 1098 de 2006, la Ley 1618 de 2013 y otros instrumentos de protección de poblaciones con especial protección constitucional.
+
+        p.mt-4.p-4.bg-12 El enfoque de ciclo vital, como parte del enfoque diferencial, exige que la atención en salud se adecúe a las características y necesidades propias de cada etapa de la vida, desde la infancia hasta la vejez. En el caso de niños, niñas y adolescentes, este enfoque implica la adopción de medidas reforzadas de protección, la articulación con los procesos de restablecimiento de derechos y el respeto por el interés superior del niño, conforme a la normativa vigente.
+
+        .row.align-items-start.mt-4
+          .col-lg-2.mb-lg-0.mb-4
+            figure(data-aos="fade-down")
+              img(src='@/assets/curso/tema5/14.svg', style='width: 84px').m-auto
+          
+          .col
+            p La aplicación del enfoque diferencial y de ciclo vital permite al sector salud brindar una atención más pertinente, efectiva y respetuosa, y constituye un criterio obligatorio en la atención integral de las violencias sexuales.
+
+      .col-lg-4.d-none.d-lg-block
+        figure
+          img(src='@/assets/curso/tema5/15.png', alt='', style="width: 395px").m-auto
+
+
+    
+    separador
+    #t_5_4.titulo-segundo.color-acento-contenido
+      h2 5.4 Enfoque psicosocial  
+
+    .row.align-items-center
+      .col-lg-9
+        p El enfoque psicosocial reconoce que las violencias sexuales generan impactos que trascienden lo físico y afectan profundamente la salud mental, las relaciones sociales y el proyecto de vida de las personas. Este enfoque orienta la atención en salud hacia la comprensión integral de las afectaciones emocionales, psicológicas y sociales, y hacia la implementación de intervenciones que contribuyan a la recuperación y al fortalecimiento de capacidades de afrontamiento.
+
+        .row.align-items-center.mt-4.bg-3.bg-r8.p-3
+          .col-lg-2.mb-lg-0.mb-4
+            figure(data-aos="fade-down")
+              img(src='@/assets/curso/tema5/16.svg', style='width: 84px').m-auto
+          
+          .col
+            p Los lineamientos del sector salud establecen que la atención psicosocial debe ser un componente obligatorio del abordaje integral de las violencias sexuales, e incluir la valoración del estado mental, la identificación de riesgos psicosociales y el acceso a intervenciones oportunas y adecuadas. Este enfoque también exige reconocer la influencia del entorno familiar y social en el proceso de recuperación y promover la articulación con redes de apoyo cuando sea pertinente.
+      .col-lg-3.d-none.d-lg-block
+        figure
+          img(src='@/assets/curso/tema5/17.png', alt='', style="width: 395px").m-auto    
+
+
+    separador
+    #t_5_5.titulo-segundo.color-acento-contenido
+      h2 5.5 Prevención de la revictimización
+
+    p La prevención de la revictimización constituye un enfoque transversal en la atención integral de las violencias sexuales y orienta todas las actuaciones del sector salud. La revictimización se presenta cuando las prácticas institucionales reproducen o profundizan el daño sufrido por la persona víctima, afectando su dignidad, su confianza en los servicios y su proceso de recuperación.
+
+    .row.bg-20.m-30
+      .col-12
+        .p-5
+          p La revictimización puede manifestarse a través de:
+
+          .row.justify-content-center.mt-4
+            .row.justify-content-center
+              .col-lg-2.d-flex.mt-4.mt-lg-0
+                .crd.bg-14.bg-r8.p-4.h-100.w-100
+                  figure.mb-2(data-aos="zoom-in")
+                    img(src='@/assets/curso/tema5/18.svg', style='width: 40px')
+                  p.mb-0 Barreras injustificadas para el acceso oportuno a los servicios de salud.
+        
+              .col-lg-2.d-flex.mt-4.mt-lg-0
+                .crd.bg-14.bg-r8.p-4.h-100.w-100
+                  figure.mb-2(data-aos="zoom-in")
+                    img(src='@/assets/curso/tema5/19.svg', style='width: 40px')
+                  p.mb-0 Trato irrespetuoso, descalificador o carente de empatía.
+
+              .col-lg-2.d-flex.mt-4.mt-lg-0
+                .crd.bg-14.bg-r8.p-4.h-100.w-100
+                  figure.mb-2(data-aos="zoom-in")
+                    img(src='@/assets/curso/tema5/20.svg', style='width: 40px')
+                  p.mb-0 Emisión de juicios de valor o actitudes culpabilizantes.
+
+              .col-lg-2.d-flex.mt-4.mt-lg-0
+                .crd.bg-14.bg-r8.p-4.h-100.w-100
+                  figure.mb-2(data-aos="zoom-in")
+                    img(src='@/assets/curso/tema5/21.svg', style='width: 40px')
+                  p.mb-0 Exposición indebida de la información personal o clínica.
+
+              .col-lg-2.d-flex.mt-4.mt-lg-0
+                .crd.bg-14.bg-r8.p-4.h-100.w-100
+                  figure.mb-2(data-aos="zoom-in")
+                    img(src='@/assets/curso/tema5/22.svg', style='width: 40px')
+                  p.mb-0 Interrogatorios innecesarios o repetitivos.
+
+        .row.align-items-center
+          .col-lg-4.d-none.d-lg-block
+            figure
+              img(src='@/assets/curso/tema5/23.png', alt='', style="width: 396px").m-auto
+          .col-lg-8
+            p La normativa vigente y los lineamientos técnicos del sector salud establecen la obligación de adoptar medidas orientadas a prevenir la revictimización, garantizando una atención digna, confidencial y centrada en la persona. En este sentido, el talento humano en salud debe actuar con sensibilidad, respeto y profesionalismo, y revisar de manera permanente sus prácticas para asegurar una atención humanizada, ética y de calidad.
+
+            .row.mt-4.bg-base.p-4.bg-r8
+              .col-12
+                p La prevención de la revictimización implica:
+                ul.lista-ul--color
+                  li.d-flex.align-items-start
+                    span.icono-img
+                    p.mb-0 Evitar la repetición innecesaria del relato de los hechos.
+        
+                  li.d-flex.align-items-start
+                    span.icono-img
+                    p.mb-0 Brindar información clara y suficiente sobre los procedimientos.
+
+                  li.d-flex.align-items-start
+                    span.icono-img
+                    p.mb-0 Respetar la autonomía y las decisiones informadas de la persona.
+        
+                  li.d-flex.align-items-start
+                    span.icono-img
+                    p.mb-0 Adoptar un trato empático y libre de discriminación.
+
+
+
+    p.mt-4 Este enfoque contribuye a fortalecer la confianza en los servicios de salud, a mejorar la calidad de la atención y a proteger de manera efectiva los derechos de las personas víctimas de violencias sexuales.
 
 </template>
 

@@ -17,39 +17,34 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Microcontroladores y sensores',
+      tema:
+        'Fundamentos y normatividad de la atención integral en violencias sexuales',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión y el uso adecuado de las herramientas básicas en la ventana <em>Board</em> del <em>software</em> EAGLE.',
+        '<b> Objetivo:</b> identificar los fundamentos conceptuales, normativos y éticos que orientan la atención integral en salud a personas víctimas de violencias sexuales.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
       preguntas: [
         {
           id: 1,
-          texto:
-            '¿Cuál es la función principal de la herramienta <em>Layer</em> en la ventana <em>Board</em>?',
+          texto: 'Opción a)\tSolo ocurre en el ámbito privado.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto: 'Afecta principalmente a mujeres y niñas.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
-              esCorrecta: false,
+              texto: 'Se basa en relaciones desiguales de poder.',
+              esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'tStop',
-              esCorrecta: false,
-            },
-            {
-              id: 'd',
-              texto: 'bValues',
+              texto: 'Siempre implica contacto físico.',
               esCorrecta: false,
             },
           ],
@@ -59,28 +54,28 @@ export default {
         {
           id: 2,
           texto:
-            '¿Qué herramienta permite agregar texto en la ventana <em>Board</em>?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+            '¿Cuál de los siguientes instrumentos orienta la política pública en salud sexual y reproductiva en Colombia?',
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'bNames',
+              texto: 'Ley 100 de 1993.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto: 'Política Nacional de Salud Sexual y Reproductiva.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Código Sustantivo del Trabajo.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Resolución 1956 de 2008.',
               esCorrecta: false,
             },
           ],
@@ -89,29 +84,29 @@ export default {
         },
         {
           id: 3,
-          texto: '¿Para qué sirve la herramienta <em>Show</em> en EAGLE?',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          texto: 'El CONPES Social 161 se relaciona principalmente con:',
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto: 'Atención hospitalaria.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Vigilancia epidemiológica.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Seguridad social en pensiones.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
-              esCorrecta: false,
+              texto: 'Equidad de género para las mujeres.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -120,28 +115,29 @@ export default {
         {
           id: 4,
           texto:
-            '¿Qué botón se utiliza para cambiar entre las ventanas <em>Schematic</em> y <em>Board</em>?',
-          imagen: require('@/assets/actividad/imagen4.png'),
+            'Las violencias sexuales deben entenderse como un problema de salud pública porque:',
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'bNames',
+              texto: 'Generan costos económicos al sistema.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto:
+                'Afectan la salud física, mental y social de las víctimas.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Son frecuentes en contextos urbanos.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Requieren intervención policial inmediata.',
               esCorrecta: false,
             },
           ],
@@ -150,28 +146,30 @@ export default {
         },
         {
           id: 5,
-          texto: '¿Qué permite hacer la herramienta <em>Route</em>?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          texto:
+            'El enfoque de derechos en la atención a víctimas de violencias sexuales implica:',
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
+              texto:
+                'Garantizar el respeto, la dignidad y la autonomía de la persona.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Priorizar los procedimientos administrativos.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Remitir todos los casos a la autoridad judicial.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Aplicar únicamente el enfoque médico.',
               esCorrecta: false,
             },
           ],
@@ -181,28 +179,28 @@ export default {
         {
           id: 6,
           texto:
-            '¿Qué función tiene la herramienta <em>Auto</em> en la ventana <em>Board</em>?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+            '¿Cuál de los siguientes es un principio ético de la atención integral en salud?',
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'bNames',
+              texto: 'Jerarquización del servicio.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto: 'Confidencialidad.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Productividad institucional.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Optimización de recursos.',
               esCorrecta: false,
             },
           ],
@@ -212,28 +210,28 @@ export default {
         {
           id: 7,
           texto:
-            '¿Cuál es una recomendación al ubicar los componentes en la ventana <em>Board</em>?',
-          imagen: require('@/assets/actividad/imagen3.png'),
+            'El consentimiento informado en la atención a víctimas de violencias sexuales se caracteriza por ser:',
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto: 'Implícito.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Obligatorio solo en menores de edad.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
-              esCorrecta: false,
+              texto: 'Libre, previo e informado.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Exclusivo del ámbito judicial.',
               esCorrecta: false,
             },
           ],
@@ -243,28 +241,23 @@ export default {
         {
           id: 8,
           texto:
-            '¿Cuál de las siguientes capas se utiliza para añadir texto en el diseño?',
+            'Opción a)\tReconocer las particularidades según edad, género y contexto.\tX',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto: 'Aplicar el mismo procedimiento a todas las personas.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Priorizar la atención especializada.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
-              esCorrecta: false,
-            },
-            {
-              id: 'd',
-              texto: 'bValues',
+              texto: 'Reducir los tiempos de atención.',
               esCorrecta: false,
             },
           ],
@@ -274,19 +267,29 @@ export default {
         {
           id: 9,
           texto:
-            'La herramienta <em>Text</em> en la ventana <em>Board</em> solo permite cambiar el color de las capas.',
-          imagen: require('@/assets/actividad/imagen1.png'),
+            '¿Cuál de los siguientes elementos hace parte del Sistema Obligatorio de Garantía de Calidad?',
+          imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Vigilancia policial.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Auditoría para el mejoramiento de la calidad.',
               esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Investigación penal.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Inspección laboral.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -294,19 +297,29 @@ export default {
         },
         {
           id: 10,
-          texto:
-            'La herramienta <em>Layer</em> permite seleccionar y editar capas para definir márgenes, pistas y componentes.',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          texto: 'La no revictimización implica:',
+          imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
+              texto: 'Repetir el relato para confirmar los hechos.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Evitar prácticas que generen daño adicional a la víctima',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Solicitar pruebas antes de la atención.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Priorizar el proceso legal por encima del bienestar de la persona atendida.',
               esCorrecta: false,
             },
           ],
@@ -316,18 +329,28 @@ export default {
         {
           id: 11,
           texto:
-            'El botón "<em>BOARD</em>" en EAGLE solo sirve para borrar componentes en el diseño.',
-          imagen: require('@/assets/actividad/imagen3.png'),
+            '¿Cuál es una condición básica de infraestructura para la atención integral?',
+          imagen: require('@/assets/actividad/imagen6.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Atención en espacios compartidos.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Atención exclusivamente ambulatoria.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Uso obligatorio de uniformes clínicos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Garantizar privacidad y confidencialidad.',
               esCorrecta: true,
             },
           ],
@@ -336,20 +359,24 @@ export default {
         },
         {
           id: 12,
-          texto:
-            'La herramienta <em>Show</em> permite resaltar conexiones para facilitar la identificación de redes.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          texto: 'Opción a)\tLa legislación laboral.',
+          imagen: require('@/assets/actividad/imagen6.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
+              texto: 'La política económica.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'El sistema judicial.',
               esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Los derechos humanos.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -357,19 +384,29 @@ export default {
         },
         {
           id: 13,
-          texto:
-            'La función <em>Auto</em> se utiliza para enrutado automático en la ventana <em>Board</em>.',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          texto: 'El sistema de referencia y contrarreferencia permite:',
+          imagen: require('@/assets/actividad/imagen7.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
-              esCorrecta: true,
+              texto: 'Registrar estadísticas nacionales.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto:
+                'Coordinar la atención entre distintos niveles y servicios.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Garantizar la atención judicial.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Priorizar la atención hospitalaria.',
               esCorrecta: false,
             },
           ],
@@ -379,19 +416,29 @@ export default {
         {
           id: 14,
           texto:
-            'La herramienta <em>Route</em> en la ventana <em>Board</em> ajusta automáticamente todas las pistas del diseño.',
-          imagen: require('@/assets/actividad/imagen2.png'),
+            'Reconocer los tipos de violencias sexuales permite principalmente:',
+          imagen: require('@/assets/actividad/imagen7.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Clasificar delitos.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Aplicar sanciones.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Realizar un abordaje integral adecuado.',
               esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Activar medidas de protección policial.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
@@ -400,18 +447,182 @@ export default {
         {
           id: 15,
           texto:
-            'Es recomendable organizar los componentes en bloques funcionales como transformación y filtrado en la ventana <em>Board</em>.',
-          imagen: require('@/assets/actividad/imagen3.png'),
+            'La construcción cultural de la identidad influye en las violencias sexuales porque:',
+          imagen: require('@/assets/actividad/imagen8.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Verdadero',
+              texto: 'Define los protocolos de atención.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Refuerza estereotipos y relaciones de poder.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Determina la atención clínica.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Regula el sistema de salud.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 16,
+          texto:
+            '¿Cuál de los siguientes es un recurso necesario para la atención integral?',
+          imagen: require('@/assets/actividad/imagen8.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Infraestructura, insumos y equipos.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Falso',
+              texto: 'Solo talento humano.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Exclusivamente apoyo judicial.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Atención domiciliaria.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 17,
+          texto: 'El trato digno en la atención a víctimas implica:',
+          imagen: require('@/assets/actividad/imagen9.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Atención rápida.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Lenguaje técnico especializado.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Respeto, empatía y escucha activa.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Aplicación estricta del protocolo.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 18,
+          texto:
+            'La normatividad internacional en violencias sexuales se relaciona con:',
+          imagen: require('@/assets/actividad/imagen9.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Tratados comerciales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Estándares de derechos humanos.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Normas laborales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Reglamentos internos de salud.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 19,
+          texto:
+            'Identificar signos y síntomas de violencia sexual es importante porque:',
+          imagen: require('@/assets/actividad/imagen10.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Permite confirmar un delito.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Facilita la intervención judicial.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Orienta la atención integral en salud.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Sustituye el relato de la víctima.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 20,
+          texto:
+            'El abordaje integral de las víctimas de violencias sexuales debe ser:',
+          imagen: require('@/assets/actividad/imagen10.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Exclusivamente clínico.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Centrado en el diagnóstico.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Ético, oportuno y con enfoque de derechos.',
+              esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'Prioritariamente judicial.',
               esCorrecta: false,
             },
           ],
