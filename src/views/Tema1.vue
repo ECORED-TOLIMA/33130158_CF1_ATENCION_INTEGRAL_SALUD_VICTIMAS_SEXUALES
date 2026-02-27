@@ -274,7 +274,7 @@
     .row.justify-content-center.align-items-center
       .col-lg-9
         .row.align-items-center
-          .col-10.col-md-6.col-lg-4(data-aos="fade-right")
+          .col-10.col-md-6.mb-2.col-lg-4(data-aos="fade-right")
             .tarjeta-avatar
               img(src='@/assets/curso/tema1/22.svg' style="width: 130px").m-auto
               .tarjeta.color-primario.shadow
@@ -285,7 +285,7 @@
                         p.mb-0 Garantizar la atención inmediata e integral, sin barreras de acceso ni condicionamiento a la denuncia previa.
 
 
-          .col-10.col-md-6.col-lg-4(data-aos="fade-right")
+          .col-10.col-md-6.mb-2.col-lg-4(data-aos="fade-right")
             .tarjeta-avatar
               img(src='@/assets/curso/tema1/23.svg' style="width: 130px").m-auto
               .tarjeta.color-primario.shadow

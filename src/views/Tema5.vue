@@ -249,7 +249,7 @@
                     img(src='@/assets/curso/tema5/22.svg', style='width: 40px')
                   p.mb-0 Interrogatorios innecesarios o repetitivos.
 
-        .row.align-items-center
+        .row.align-items-center.p-5
           .col-lg-4.d-none.d-lg-block
             figure
               img(src='@/assets/curso/tema5/23.png', alt='', style="width: 396px").m-auto
