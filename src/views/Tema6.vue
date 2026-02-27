@@ -365,12 +365,13 @@
 
     p.mt-4 Es un componente fundamental del proceso de atención integral en salud a personas víctimas de violencias sexuales, ya que permite identificar de manera temprana situaciones que comprometen la vida o la estabilidad clínica y orientar de forma adecuada las intervenciones prioritarias. Esta evaluación debe realizarse de manera inmediata, sistemática y conforme a los lineamientos técnicos vigentes del sector salud.
 
-    .bloque-texto-g.bloque-texto-g--invertido.bg-16.p-3.p-sm-4.p-md-5
+    .bloque-texto-g.bloque-texto-g--inverso.bg-16.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema6/22.png')})`}"
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 Toda persona víctima de violencia sexual que ingresa a los servicios de salud debe ser evaluada inicialmente para determinar su estado general de salud y la existencia de riesgos vitales, sin que este procedimiento pueda verse retrasado por trámites administrativos u otras actuaciones no urgentes. La prioridad de esta evaluación responde a la necesidad de proteger la vida, la integridad física y la salud mental de la persona.
+
 
 
     .row.align-items-start.mt-4
