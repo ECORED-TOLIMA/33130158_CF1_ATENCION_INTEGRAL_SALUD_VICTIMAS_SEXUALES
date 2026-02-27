@@ -217,7 +217,7 @@
 
     .row.justify-content-center 
       .col-lg-7
-        LineaTiempoD.color-primario
+        LineaTiempoD.color-primario.linea-bold
           .row(numero="1" titulo="Abuso sexual")
             .col-md-12.mb-4.mb-md-0
               p.text-small Hace referencia a actos sexuales impuestos, generalmente contra niñas, niños y adolescentes, mediante el uso de la fuerza, el engaño, la manipulación o el abuso de una posición de poder o confianza, sin que necesariamente exista acceso carnal.
