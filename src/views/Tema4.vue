@@ -911,19 +911,21 @@
                   p.mb-0 Garantizar una atención basada en la evidencia y en estándares de calidad.
     
     .row.align-items-center.mt-4
-      .col-lg-3.d-none.d-lg-block
-        figure(data-aos="fade-up")
-          img(src='@/assets/curso/tema4/31.svg', alt='', style="width: 100%").m-auto
-      .col-lg-9.p-3
-        .row.justify-content-center
-          .col-lg-10
-            p El cumplimiento de estas responsabilidades permite que la atención en salud a las personas víctimas de violencias sexuales se realice de manera coherente con el marco normativo y los principios éticos del ejercicio profesional, contribuyendo a la protección de la salud integral y al restablecimiento de derechos.
-            .row.align-items-center.bg-r8.p-3.bg-3
+      .col-lg-4.d-none.d-lg-block
+        figure
+          img(src='@/assets/curso/tema4/31.svg', alt='', style="width: 390px").m-auto
+      .col-lg-8
+        p.mt-4 El cumplimiento de estas responsabilidades permite que la atención en salud a las personas víctimas de violencias sexuales se realice de manera coherente con el marco normativo y los principios éticos del ejercicio profesional, contribuyendo a la protección de la salud integral y al restablecimiento de derechos.
+        
+        .row.mt-4.p-3.bg-r8.bg-3
+          .col-12
+            .row.align-items-center
               .col-lg-2.d-none.d-lg-block
                 figure(data-aos="fade-up")
                   img(src='@/assets/curso/tema4/32.svg', alt='', style="width: 80px").m-auto 
               .col-lg-10
                 p El cumplimiento de estas responsabilidades asegura que la atención en salud a las personas víctimas de violencias sexuales se desarrolle en coherencia con el marco normativo vigente, los estándares técnicos del sector salud y los principios éticos que rigen el ejercicio profesional, contribuyendo de manera efectiva a la protección de la salud integral y al restablecimiento de derechos.
+
 
 
 </template>
