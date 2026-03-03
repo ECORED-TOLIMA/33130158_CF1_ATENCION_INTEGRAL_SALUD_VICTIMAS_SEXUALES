@@ -43,7 +43,7 @@
           .crd.bg-14.bg-r8.p-4.h-100.w-100
             figure.mb-2(data-aos="zoom-in")
               img(src='@/assets/curso/tema2/4.svg', style='width: 40px')
-            p.mb-0 En la parte central del párrafo
+            p.mb-0 Derecho a la dignidad humana.
   
         .col-lg-2.d-flex.mt-4.mt-lg-0
           .crd.bg-14.bg-r8.p-4.h-100.w-100
@@ -138,7 +138,7 @@
       .col-lg-8
         p Las violencias sexuales mantienen una relación directa y profunda con la salud sexual y reproductiva, en la medida en que afectan el ejercicio libre, informado y autónomo de la sexualidad y la reproducción. Estas violencias no solo constituyen una vulneración grave de los derechos sexuales y reproductivos, sino que también generan riesgos y consecuencias que comprometen de manera significativa el bienestar físico, mental y social de las personas. 
 
-        p.bg-1.bg-r8.p-3 Las violencias sexuales constituyen un problema social y de salud pública debido a su alta prevalencia, a la diversidad de formas en que se manifiestan y a las graves consecuencias que generan en la salud y el bienestar de las personas, así como en sus familias y comunidades. Su impacto trasciende el ámbito individual y se extiende al tejido social, afectando la cohesión comunitaria y el desarrollo social.
+        p.bg-1.bg-r8.p-3 Desde el sector salud, esta relación exige un abordaje integral que reconozca las violencias sexuales como un determinante negativo de la salud y como una prioridad en la atención sanitaria. La salud sexual y reproductiva se concibe como un estado de bienestar físico, mental y social en todos los aspectos relacionados con la sexualidad y la reproducción, y no únicamente como la ausencia de enfermedad. 
 
         .row.align-items-center
           .col-lg-2.mb-lg-0.mb-4
@@ -220,31 +220,31 @@
         LineaTiempoD.color-primario.linea-bold
           .row(numero="1" titulo="Abuso sexual")
             .col-md-12.mb-4.mb-md-0
-              p.text-small Hace referencia a actos sexuales impuestos, generalmente contra niñas, niños y adolescentes, mediante el uso de la fuerza, el engaño, la manipulación o el abuso de una posición de poder o confianza, sin que necesariamente exista acceso carnal.
+              p Hace referencia a actos sexuales impuestos, generalmente contra niñas, niños y adolescentes, mediante el uso de la fuerza, el engaño, la manipulación o el abuso de una posición de poder o confianza, sin que necesariamente exista acceso carnal.
           
           .row(numero="2" titulo="Asalto sexual o violación")
             .col-md-12.mb-4.mb-md-0
-              p.text-small Comprende el acceso carnal o los actos sexuales forzados mediante violencia física, intimidación o coerción, y puede ocurrir en ámbitos familiares, comunitarios, laborales, educativos o institucionales.
+              p Comprende el acceso carnal o los actos sexuales forzados mediante violencia física, intimidación o coerción, y puede ocurrir en ámbitos familiares, comunitarios, laborales, educativos o institucionales.
 
           .row(numero="3" titulo="Violencia sexual intrafamiliar")
             .col-md-12.mb-4.mb-md-0
-              p.text-small Se presenta cuando los actos de violencia sexual son cometidos por integrantes del núcleo familiar o personas con vínculos cercanos, lo que incrementa el riesgo de cronicidad, silenciamiento y revictimización.
+              p Se presenta cuando los actos de violencia sexual son cometidos por integrantes del núcleo familiar o personas con vínculos cercanos, lo que incrementa el riesgo de cronicidad, silenciamiento y revictimización.
 
           .row(numero="4" titulo="Violencia sexual en la pareja")
             .col-md-12.mb-4.mb-md-0
-              p.text-small Incluye cualquier acto sexual no consentido dentro de relaciones de pareja actuales o anteriores, independientemente del estado civil o la convivencia.
+              p Incluye cualquier acto sexual no consentido dentro de relaciones de pareja actuales o anteriores, independientemente del estado civil o la convivencia.
 
           .row(numero="5" titulo="Trata de personas")
             .col-md-12.mb-4.mb-md-0
-              p.text-small Implica la captación, transporte, traslado, acogida o recepción de personas mediante engaño, coerción o abuso de poder, con el propósito de explotación sexual.
+              p Implica la captación, transporte, traslado, acogida o recepción de personas mediante engaño, coerción o abuso de poder, con el propósito de explotación sexual.
 
           .row(numero="6" titulo="Violencia sexual en conflicto armado")
             .col-md-12.mb-4.mb-md-0
-              p.text-small Incluye actos de violencia sexual utilizados como estrategia de control, intimidación o dominación sobre comunidades y poblaciones específicas.
+              p Incluye actos de violencia sexual utilizados como estrategia de control, intimidación o dominación sobre comunidades y poblaciones específicas.
 
           .row(numero="7" titulo="Violencia contra diversidad de género")
             .col-md-12.mb-4.mb-md-0
-              p.text-small Se manifiesta como una forma de violencia basada en prejuicios, discriminación y estigmatización.
+              p Se manifiesta como una forma de violencia basada en prejuicios, discriminación y estigmatización.
 
       .col-lg-3.d-none.d-lg-block
         figure(data-aos="fade-up")

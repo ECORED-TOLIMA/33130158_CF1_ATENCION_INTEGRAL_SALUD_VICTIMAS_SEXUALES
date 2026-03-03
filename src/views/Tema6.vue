@@ -786,32 +786,29 @@
         figure
           img(src='@/assets/curso/tema6/38.png', alt='', style="width: 100%").m-auto
 
-    .row.justify-content-center.mt-4.bg-24.p-5
+    .row.justify-content-center.bg-24.p-5.m-30
       .col-lg-10
-        .row.justify-content-center.mt-4.p-5
+        .row.justify-content-center.p-5
           p.mt-4 La orientación diagnóstica inicial permite:
           .col-lg-10
             .row.align-items-center.p-4.bg-14
-              p.mb-3 La aplicación del enfoque de derechos humanos en la atención en salud implica:
               ul.lista-ul.mb-0.bg-r8
                 li
                   span.icono-img
-                  p.mb-0 Garantizar el acceso efectivo a los servicios de salud requeridos.
+                  p.mb-0 Integrar los hallazgos físicos, mentales y emocionales identificados.
                 li
                   span.icono-img
-                  p.mb-0 Respetar la autonomía y las decisiones informadas de la persona víctima.
+                  p.mb-0 Definir las intervenciones inmediatas requeridas.
                 li
                   span.icono-img
-                  p.mb-0 Asegurar el consentimiento informado para los procedimientos clínicos y médico-legales.
+                  p.mb-0 Establecer la necesidad de seguimiento clínico.
                 li
                   span.icono-img
-                  p.mb-0 Proteger la confidencialidad y la reserva de la información.
+                  p.mb-0 Determinar la pertinencia de referencia o contrarreferencia a otros servicios o niveles de complejidad.
                 li
                   span.icono-img
-                  p.mb-0 Prevenir cualquier forma de revictimización institucional.
-                li
-                  span.icono-img
-                  p.mb-0 Adoptar prácticas de atención respetuosas, dignas y humanizadas.
+                  p.mb-0 Garantizar la continuidad del proceso de atención integral.
+
 
             p.mt-4 Las decisiones adoptadas en esta fase deben comunicarse de manera clara y comprensible a la persona, respetando su autonomía, garantizando el consentimiento informado y la confidencialidad de la información. Asimismo, deben quedar debidamente registradas en la historia clínica, como parte del plan inicial de atención.
             

@@ -79,8 +79,8 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema5/6.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La normativa nacional colombiana establece un marco jurídico claro para la prevención, atención integral, protección y restablecimiento de derechos de las personas víctimas de violencias sexuales. Este marco define las obligaciones del Estado y, de manera específica, del sector salud, y orienta la actuación del talento humano en coherencia con los principios constitucionales y los compromisos internacionales asumidos por el país.
-
+        p.mb-0 El enfoque de género permite comprender las violencias sexuales como fenómenos vinculados a relaciones de poder desiguales y a construcciones sociales que reproducen la discriminación y la subordinación, especialmente contra las mujeres y otras personas en situación de vulnerabilidad. Este enfoque reconoce que las violencias sexuales no afectan a todas las personas de la misma manera y que dichas diferencias deben ser consideradas de forma explícita en la atención en salud.
+        
     .row.mt-4.align-items-center
       .col-lg-9
         .row.align-items-center.bg-r8.p-4.bg-1

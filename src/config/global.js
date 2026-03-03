@@ -373,97 +373,32 @@ export default {
     {
       referencia:
         'Congreso de la República de Colombia. (1997). <em>Ley 360 de 1997. Delitos contra la libertad sexual y la dignidad humana</em>.',
-      link:
-        'https://www.secretariasenado.gov.co/senado/basedoc/ley_0360_1997.html',
+      link: '',
     },
     {
       referencia:
         'Congreso de la República de Colombia. (2000). <em>Ley 599 de 2000. Código Penal Colombiano</em>.',
-      link:
-        'https://www.secretariasenado.gov.co/senado/basedoc/ley_0599_2000.html',
+      link: '',
     },
     {
       referencia:
         'Congreso de la República de Colombia. (2004). <em>Ley 906 de 2004. Código de Procedimiento Penal</em>.',
-      link:
-        'https://www.secretariasenado.gov.co/senado/basedoc/ley_0906_2004.html',
+      link: '',
     },
     {
       referencia:
         'Congreso de la República de Colombia. (2006). <em>Ley 1098 de 2006. Código de la Infancia y la Adolescencia</em>.',
-      link: 'https://www.icbf.gov.co/cargues/avance/docs/ley_1098_2006.html',
+      link: '',
     },
     {
       referencia:
         'Congreso de la República de Colombia. (2007). <em>Ley 1146 de 2007. Prevención de la violencia sexual y atención integral a NNA</em>.',
-      link:
-        'https://www.secretariasenado.gov.co/senado/basedoc/ley_1146_2007.html',
+      link: '',
     },
     {
       referencia:
         'Congreso de la República de Colombia. (2008). <em>Ley 1257 de 2008. Violencia y discriminación contra las mujeres</em>.',
-      link:
-        'https://www.secretariasenado.gov.co/senado/basedoc/ley_1257_2008.html',
-    },
-    {
-      referencia:
-        'Ministerio de la Protección Social. (2000). <em>Resolución 412 de 2000. Guías de atención: mujer y menor maltratado</em>.',
-      link:
-        'https://www.minsalud.gov.co/Normatividad_Nuevo/RESOLUCION%20412%20DE%202000.pdf',
-    },
-    {
-      referencia:
-        'Ministerio de la Protección Social. (2007). <em>Decreto 3039 de 2007. Plan Nacional de Salud Pública</em>.',
-      link:
-        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=26152',
-    },
-    {
-      referencia:
-        'Ministerio de la Protección Social & UNFPA. (2011). <em>Modelo de Atención Integral en Salud para Víctimas de Violencia Sexual</em>.',
-      link:
-        'https://colombia.unfpa.org/sites/default/files/pub-pdf/Modelo%20de%20Atencion%20Integral%20en%20Salud%20para%20Victimas%20de%20Violencia%20Sexual.pdf',
-    },
-    {
-      referencia:
-        'Ministerio de Salud y Protección Social. (2011). <em>Modelo y protocolo de atención integral en salud para víctimas de violencia sexual</em>.',
-      link:
-        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/Modelo-protocolo-atencion-violencia-sexual.pdf',
-    },
-    {
-      referencia:
-        'Ministerio de Salud y Protección Social. (2018). <em>Lineamientos técnicos y operativos para la atención integral a víctimas de violencias sexuales</em>.',
-      link:
-        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/Lineamientos-atencion-integral-violencias-sexuales.pdf',
-    },
-    {
-      referencia:
-        'Instituto Nacional de Medicina Legal y Ciencias Forenses. (2009). <em>Reglamento técnico para el abordaje forense integral en la investigación del delito sexual</em> (Versión 03).',
-      link:
-        'https://www.medicinalegal.gov.co/documents/20143/49493/Reglamento+Tecnico+Abordaje+Forense+Integral+Delito+Sexual.pdf',
-    },
-    {
-      referencia:
-        'Instituto Nacional de Medicina Legal y Ciencias Forenses. (2009). <em>Instructivo para manejo de kits de toma de muestras en delitos sexuales</em>.',
-      link:
-        'https://www.medicinalegal.gov.co/documents/20143/0/Instructivo-uso-kits-delito-sexual.pdf',
-    },
-    {
-      referencia:
-        'Instituto Nacional de Medicina Legal y Ciencias Forenses. (2010). <em>CIE-10 aplicado a violencia sexual</em>.',
-      link:
-        'https://www.medicinalegal.gov.co/documents/20143/0/CIE10-violencia-sexual.pdf',
-    },
-    {
-      referencia:
-        'Instituto Nacional de Medicina Legal y Ciencias Forenses. (2009). <em>Forensis: Datos para la vida</em>.',
-      link:
-        'https://www.medicinalegal.gov.co/documents/20143/49523/Forensis-2009.pdf',
-    },
-    {
-      referencia:
-        'Defensoría del Pueblo & Profamilia. (2007). <em>Módulo de la A a la Z en derechos sexuales y reproductivos</em>.',
-      link:
-        'https://profamilia.org.co/wp-content/uploads/2018/12/Modulo-A-a-Z-DSDR.pdf',
+      link: '',
     },
     {
       referencia:
@@ -472,13 +407,68 @@ export default {
     },
     {
       referencia:
+        'Corporación Humanas. (2009). <em>Guía para llevar casos de violencia sexual en el marco del conflicto armado colombiano</em>.',
+      link: '',
+    },
+    {
+      referencia:
+        'Defensoría del Pueblo & Profamilia. (2007). <em>Módulo de la A a la Z en derechos sexuales y reproductivos</em>.',
+      link: '',
+    },
+    {
+      referencia:
+        'Instituto Nacional de Medicina Legal y Ciencias Forenses. (2009). <em>Instructivo para manejo de kits de toma de muestras en delitos sexuales</em>.',
+      link: '',
+    },
+    {
+      referencia:
+        'Instituto Nacional de Medicina Legal y Ciencias Forenses. (2009). <em>Reglamento técnico para el abordaje forense integral en la investigación del delito sexual</em> (Versión 03).',
+      link: '',
+    },
+    {
+      referencia:
+        'Instituto Nacional de Medicina Legal y Ciencias Forenses. (2010). <em>CIE-10 aplicado a violencia sexual</em>.',
+      link: '',
+    },
+    {
+      referencia:
+        'Instituto Nacional de Medicina Legal y Ciencias Forenses. (2009). <em>Forensis: Datos para la vida</em>.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de la Protección Social. (2000). <em>Resolución 412 de 2000. Guías de atención: mujer y menor maltratado</em>.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de la Protección Social. (2007). <em>Decreto 3039 de 2007. Plan Nacional de Salud Pública</em>.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de la Protección Social & UNFPA. (2011). <em>Modelo de Atención Integral en Salud para Víctimas de Violencia Sexual</em>.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (2011). <em>Modelo y protocolo de atención integral en salud para víctimas de violencia sexual</em>.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (2018). <em>Lineamientos técnicos y operativos para la atención integral a víctimas de violencias sexuales</em>.',
+      link: '',
+    },
+    {
+      referencia:
         'Naciones Unidas. (1993). <em>Declaración sobre la eliminación de la violencia contra la mujer</em>.',
-      link: 'https://www.un.org/es/documents/ag/res/48/104.shtml',
+      link: '',
     },
     {
       referencia:
         'Naciones Unidas. (1998). <em>Estatuto de Roma de la Corte Penal Internacional</em>.',
-      link: 'https://www.icc-cpi.int/sites/default/files/RS-Spanish.pdf',
+      link: '',
     },
     {
       referencia:
@@ -497,8 +487,13 @@ export default {
     },
     {
       referencia:
-        'Corporación Humanas. (2009). <em>Guía para llevar casos de violencia sexual en el marco del conflicto armado colombiano</em>.',
-      link: 'https://www.humanas.org.co/archivos/Guia_violencia_sexual.pdf',
+        'Organización Mundial de la Salud. (2003). <em>Guidelines for medico-legal care for victims of sexual violence</em>.',
+      link: '',
+    },
+    {
+      referencia:
+        'Organización Panamericana de la Salud. (2000). <em>Promoción de la salud sexual: recomendaciones para la acción</em>.',
+      link: '',
     },
     {
       referencia:
@@ -509,7 +504,7 @@ export default {
     {
       referencia:
         'UNICEF. (2002). <em>Explotación sexual comercial de niños, niñas y adolescentes</em>.',
-      link: 'https://www.unicef.org/colombia/media/181/file/ESCNNA.pdf',
+      link: '',
     },
   ],
   creditos: [

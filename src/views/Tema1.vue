@@ -86,6 +86,7 @@
         figure
           img(src='@/assets/curso/tema1/7.png', alt='', style="width: 290px").m-auto        
 
+    
 
     .row.justify-content-center.mt-4 
       .col-lg-10
@@ -112,8 +113,10 @@
 
               p.text-start Toda acción que cause daño o sufrimiento sexual, entendida como la imposición de contacto sexual, físico o verbal, o la participación en interacciones sexuales no consentidas, mediante fuerza, intimidación, manipulación, amenaza, abuso de poder o aprovechamiento de condiciones de vulnerabilidad, incluyendo la obligación de realizar estos actos con terceras personas.
 
+    p.mt-4 Las violencias sexuales se caracterizan por:
 
-    .row
+
+    .row.m-30
       .col-12
         .p-5
           .row.align-items-center.bg-4
