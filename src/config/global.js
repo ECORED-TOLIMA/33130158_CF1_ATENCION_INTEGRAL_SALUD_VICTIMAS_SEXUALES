@@ -1,6 +1,7 @@
 export default {
   global: {
-    Name: 'Atención integral en salud a las victimas de violencias sexuales',
+    Name:
+      'Fundamentos y lineamientos para la atención integral en salud de las violencias sexuales',
     Description:
       'Este componente formativo desarrolla los fundamentos conceptuales, normativos y procedimentales de la atención integral en salud a personas víctimas de violencias sexuales, conforme a la normatividad vigente y al contexto del servicio de salud. Fortalece competencias para aplicar modelos, protocolos y enfoques de derechos humanos, género, diferencial y ciclo vital, garantizando una atención ética, digna, oportuna y libre de revictimización.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
