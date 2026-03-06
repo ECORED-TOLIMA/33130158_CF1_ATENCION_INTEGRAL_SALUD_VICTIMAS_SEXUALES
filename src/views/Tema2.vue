@@ -234,15 +234,19 @@
             .col-md-12.mb-4.mb-md-0
               p Incluye cualquier acto sexual no consentido dentro de relaciones de pareja actuales o anteriores, independientemente del estado civil o la convivencia.
 
-          .row(numero="5" titulo="Trata de personas")
+          .row(numero="5" titulo="Explotación sexual")
+            .col-md-12.mb-4.mb-md-0
+              p consiste en la utilización del cuerpo de una persona, especialmente de niñas, niños y adolescentes, con fines comerciales o de beneficio económico, incluyendo la pornografía y la prostitución forzada.
+
+          .row(numero="6" titulo="Trata de personas")
             .col-md-12.mb-4.mb-md-0
               p Implica la captación, transporte, traslado, acogida o recepción de personas mediante engaño, coerción o abuso de poder, con el propósito de explotación sexual.
 
-          .row(numero="6" titulo="Violencia sexual en conflicto armado")
+          .row(numero="7" titulo="Violencia sexual en conflicto armado")
             .col-md-12.mb-4.mb-md-0
               p Incluye actos de violencia sexual utilizados como estrategia de control, intimidación o dominación sobre comunidades y poblaciones específicas.
 
-          .row(numero="7" titulo="Violencia contra diversidad de género")
+          .row(numero="8" titulo="Violencia contra diversidad de género")
             .col-md-12.mb-4.mb-md-0
               p Se manifiesta como una forma de violencia basada en prejuicios, discriminación y estigmatización.
 

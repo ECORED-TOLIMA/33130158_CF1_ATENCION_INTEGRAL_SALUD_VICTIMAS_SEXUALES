@@ -495,7 +495,7 @@
                 .circle-morado
                   figure(data-aos="zoom-in")
                     img(src='@/assets/curso/tema6/27.svg' style='width: 80px')
-            h4.text-center Realización del exámen
+            h4.text-center Realización del examen
 
             ul.lista-ul--color
               li.d-flex.align-items-start
@@ -667,6 +667,8 @@
       .col-lg-4.d-none.d-lg-block
         figure
           img(src='@/assets/curso/tema6/33.png', alt='', style="width: 390px").m-auto
+
+    p.mt-4 Entre los principales procedimientos médicos y medidas complementarias se incluyen:
 
     .row.justify-content-center.mt-4
       .col-lg-3.d-none.d-lg-block
