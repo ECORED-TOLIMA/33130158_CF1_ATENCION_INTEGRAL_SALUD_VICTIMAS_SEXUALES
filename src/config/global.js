@@ -553,8 +553,7 @@ export default {
         {
           nombre: 'Laura Briguitte Perea Possos',
           cargo: 'Experta temática',
-          centro:
-            'Centro de Formación de Talento Humano en Salud - Regional Distrito Capital',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'Gloria Lida Alzate Suárez',
