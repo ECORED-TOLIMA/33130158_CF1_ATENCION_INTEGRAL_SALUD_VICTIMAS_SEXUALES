@@ -28,7 +28,8 @@ export default {
       preguntas: [
         {
           id: 1,
-          texto: 'Opción a)\tSolo ocurre en el ámbito privado.',
+          texto:
+            'La violencia sexual se considera una forma de violencia de género porque:',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -45,6 +46,11 @@ export default {
             {
               id: 'c',
               texto: 'Siempre implica contacto físico.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Solo ocurre en el ámbito privado.',
               esCorrecta: false,
             },
           ],
@@ -240,8 +246,7 @@ export default {
         },
         {
           id: 8,
-          texto:
-            'Opción a)\tReconocer las particularidades según edad, género y contexto.\tX',
+          texto: 'El enfoque diferencial en la atención en salud busca:',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -259,6 +264,12 @@ export default {
               id: 'c',
               texto: 'Reducir los tiempos de atención.',
               esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto:
+                'Reconocer las particularidades según edad, género y contexto.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',

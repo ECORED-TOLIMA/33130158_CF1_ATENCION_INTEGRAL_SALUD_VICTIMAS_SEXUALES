@@ -38,8 +38,12 @@
         p La articulación intersectorial se entiende como el proceso de coordinación entre el sector salud y otras entidades del Estado, orientado a garantizar la atención integral, la protección y el restablecimiento de los derechos de las personas víctimas de violencias sexuales. Este proceso hace parte de la respuesta institucional y está respaldado por el marco normativo y los lineamientos técnicos vigentes. Desde el sector salud, la articulación intersectorial cumple un papel estratégico, dado que los servicios de salud suelen constituirse en el primer punto de contacto institucional para las personas víctimas.
 
         p La articulación intersectorial en la atención integral se desarrolla a través de tres elementos fundamentales que orientan la actuación coordinada del sector salud:
-
-    p.mt-4 En este contexto, la actuación del sector salud se orienta a garantizar una respuesta oportuna, coordinada y centrada en los derechos de la persona víctima:
+   
+    ol.lista-ol--cuadro.mt-4
+      li 
+        .lista-ol--cuadro__vineta(style="background-color: #FFE1DB !important;")
+          span.text-black A
+        p.mb-0 En este contexto, la actuación del sector salud se orienta a garantizar una respuesta oportuna, coordinada y centrada en los derechos de la persona víctima:
 
     .row.justify-content-center.mt-4
       .col-lg-3.mb-4.mb-lg-0
@@ -82,10 +86,15 @@
       .col-12
         .p-5
           .row.align-items-center.justify-content-center
-            .col-lg-7
-              p La articulación intersectorial comprende la coordinación con diferentes instancias del Estado que cumplen roles específicos en la protección y el restablecimiento de derechos:
 
-              .row.align-items-center.bg-14.bg-r8.p-3
+            ol.lista-ol--cuadro
+              li 
+                .lista-ol--cuadro__vineta(style="background-color: #FFE1DB !important;")
+                  span.text-black B
+                p.mb-0 La articulación intersectorial comprende la coordinación con diferentes instancias del Estado que cumplen roles específicos en la protección y el restablecimiento de derechos:
+
+            .col-lg-7
+              .row.align-items-center.bg-14.bg-r8.p-4.m-30
                 .col-12
                   .row.align-items-center
                     .col-lg-2.mb-lg-0.mb-4
@@ -124,7 +133,11 @@
               figure
                 img(src='@/assets/curso/tema7/12.png', alt='', style="width: 290px").m-auto
 
-          p.mt-4 Este proceso de articulación debe desarrollarse garantizando en todo momento condiciones que protejan la dignidad, la autonomía y los derechos de la persona atendida:
+    ol.lista-ol--cuadro
+      li 
+        .lista-ol--cuadro__vineta(style="background-color: #FFE1DB !important;")
+          span.text-black C
+        p.mb-0 Este proceso de articulación debe desarrollarse garantizando en todo momento condiciones que protejan la dignidad, la autonomía y los derechos de la persona atendida:
 
     .row.justify-content-center
       .col-lg-10
@@ -189,7 +202,7 @@
 
       .col-lg-7
         LineaTiempoD.color-primario
-          .row(numero="1" titulo="Informar de manera clara y comprensible sobre")
+          .row(numero="1" titulo="Informar de manera clara y comprensible sobre:")
             .col-md-12.mb-4.mb-md-0
               ul.lista-ul--color
                 li.d-flex.align-items-start
@@ -204,7 +217,7 @@
                   span.icono-img
                   p.mb-0 Las alternativas disponibles y el derecho a aceptar o rechazar procedimientos.
           
-          .row(numero="2" titulo="Garantizar que la decisión se tome")
+          .row(numero="2" titulo="Garantizar que la decisión se tome:")
             .col-md-12.mb-4.mb-md-0
               ul.lista-ul--color
                 li.d-flex.align-items-start
@@ -216,7 +229,7 @@
                   p.mb-0 Respetando el ritmo, las emociones y las condiciones de la persona.
 
 
-          .row(numero="3" titulo="Reconocer que el consentimiento")
+          .row(numero="3" titulo="Reconocer que el consentimiento:")
             .col-md-12.mb-4.mb-md-0
               ul.lista-ul--color
                 li.d-flex.align-items-start

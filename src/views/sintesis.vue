@@ -6,7 +6,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Imagen de un mapa conceptual que resume la síntesis del componente formativo “ Fundamentos y lineamientos para la atención integral en salud de las violencias sexuales”. Presenta tres ejes temáticos principales: el reconocimiento de las violencias sexuales como problema de salud pública, que incluye su conceptualización y caracterización epidemiológica; el marco normativo y los enfoques que orientan la atención integral; y la articulación intersectorial con los actores del proceso de atención en Colombia.  ")
+          img(src="@/assets/curso/sintesis.svg", alt="Imagen de un mapa conceptual que resume la síntesis del componente formativo “Fundamentos y lineamientos para la atención integral en salud de las violencias sexuales”. Presenta tres ejes temáticos principales: el reconocimiento de las violencias sexuales como problema de salud pública, que incluye su conceptualización y caracterización epidemiológica; el marco normativo y los enfoques que orientan la atención integral; y la articulación intersectorial con los actores del proceso de atención en Colombia.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

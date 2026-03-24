@@ -165,15 +165,6 @@
             .col-auto
               .circle-morado
                 figure(data-aos="zoom-in")
-                  img(src='@/assets/curso/tema2/14.svg', alt='Estructura lógica', style='width: 80px')
-          p.mb-0 Infecciones de transmisión sexual, incluido el VIH.
-
-      .col-lg-3.mb-4.mb-lg-0
-        .tarjeta.clr-paleYellow.p-4.text-center.bg-15.h-100
-          .row.justify-content-center.mb-3
-            .col-auto
-              .circle-morado
-                figure(data-aos="zoom-in")
                   img(src='@/assets/curso/tema2/15.svg', alt='Ideas generales', style='width: 80px')
           p.mb-0 Embarazos no deseados.
 
@@ -194,6 +185,21 @@
                 figure(data-aos="zoom-in")
                   img(src='@/assets/curso/tema2/17.svg', alt='Ideas principales', style='width: 80px')
           p.mb-0 Afectaciones en la salud mental asociadas a la vivencia traumática.
+
+      .col-lg-3.mb-4.mb-lg-0
+        .tarjeta.clr-paleYellow.p-4.text-center.bg-15.h-100
+          .row.justify-content-center.mb-3
+            .col-auto
+              .circle-morado
+                figure(data-aos="zoom-in")
+                  img(src='@/assets/curso/tema2/14.svg', alt='Estructura lógica', style='width: 80px')
+          p.mb-0 Infecciones de transmisión sexual, incluido el VIH.
+
+      
+
+      
+
+      
 
     p.mt-4 Estas consecuencias fundamentan la obligación del sector salud de garantizar una atención integral que incluya la identificación de riesgos en salud sexual y reproductiva, la orientación diagnóstica inicial, la provisión de anticoncepción de emergencia, la profilaxis posexposición para VIH y otras infecciones de transmisión sexual, así como el seguimiento clínico oportuno, de conformidad con los protocolos y guías vigentes.
 
@@ -236,7 +242,7 @@
 
           .row(numero="5" titulo="Explotación sexual")
             .col-md-12.mb-4.mb-md-0
-              p consiste en la utilización del cuerpo de una persona, especialmente de niñas, niños y adolescentes, con fines comerciales o de beneficio económico, incluyendo la pornografía y la prostitución forzada.
+              p Consiste en la utilización del cuerpo de una persona, especialmente de niñas, niños y adolescentes, con fines comerciales o de beneficio económico, incluyendo la pornografía y la prostitución forzada.
 
           .row(numero="6" titulo="Trata de personas")
             .col-md-12.mb-4.mb-md-0

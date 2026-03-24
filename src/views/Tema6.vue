@@ -101,9 +101,10 @@
         .row.bg-14.p-4.align-items-center.justify-content-center
           .col-12.bg-6.bg-r8.p-4
             TarjetaAudio.color-acento-botones.mb-3.bg-6.p-3(
-                texto="podcast"
+                texto="Pódcast: principios del proceso de atención integral"
                 :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
                 @audio-hover="mostrarIndicadorTarjetaAudio = false"
+                style="font-style: none !important;"
               )
                 .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
     
@@ -215,11 +216,11 @@
                 ul.lista-ul--color
                   li.d-flex.align-items-start
                     span.icono-img
-                    p.mb-0 Identificar de manera oportuna la posible situación de violencia sexual
+                    p.mb-0 Identificar de manera oportuna la posible situación de violencia sexual.
                   
                   li.d-flex.align-items-start
                     span.icono-img
-                    p.mb-0 Reconocer que la consulta puede presentarse por
+                    p.mb-0 Reconocer que la consulta puede presentarse por:
                       ul.list.lista-ul--color.mb-0.bg-r8
                         li.d-flex.align-items-start
                           i.lista-ul__vineta

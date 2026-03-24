@@ -80,7 +80,7 @@
               img(src='@/assets/curso/tema1/6.svg', style='height: 140px')
           
           .col-lg-10.bg-3.bg-r8.p-3
-            p.p-2 Desde la perspectiva de la salud pública, las violencias sexuales se asocian con múltiples afectaciones que pueden presentarse de manera inmediata o a largo plazo, incrementando la carga de enfermedad y la demanda de servicios sociales y sanitarios. Estas consecuencias inciden de forma directa en la calidad de vida y en el ejercicio pleno de los derechos sexuales y reproductivos.
+            p.p-2 Desde una perspectiva integral, las violencias sexuales trascienden el acto físico y comprenden un conjunto de conductas que afectan la autonomía sexual, la integridad corporal, la libertad, la dignidad y el ejercicio pleno de los derechos sexuales y reproductivos. Su ocurrencia puede darse en cualquier ámbito público o privado y afectar a personas de todas las edades, sexos, orientaciones sexuales, identidades de género y condiciones sociales, aunque su impacto es mayor en poblaciones que históricamente han enfrentado mayores condiciones de vulnerabilidad.
 
       .col-lg-3.d-none.d-lg-block
         figure

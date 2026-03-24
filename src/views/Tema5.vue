@@ -262,6 +262,10 @@
                 ul.lista-ul--color
                   li.d-flex.align-items-start
                     span.icono-img
+                    p.mb-0 Garantizar la privacidad durante la atención.
+
+                  li.d-flex.align-items-start
+                    span.icono-img
                     p.mb-0 Evitar la repetición innecesaria del relato de los hechos.
         
                   li.d-flex.align-items-start

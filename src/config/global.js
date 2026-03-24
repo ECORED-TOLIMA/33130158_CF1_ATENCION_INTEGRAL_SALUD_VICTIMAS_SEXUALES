@@ -33,7 +33,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Las violencias sexuales como problema de salud pública',
+        titulo: 'Violencias sexuales como problema de salud pública y social',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -543,12 +543,13 @@ export default {
         {
           nombre: 'Juan Camilo González ',
           cargo: 'Asesor pedagógico',
-          centro: 'Centro Agropecuario-Regional Risaralda',
+          centro: 'Ministerio de Salud y Protección Social ',
         },
         {
           nombre: 'María Helena Tamayo',
           cargo: 'Asesora pedagógica',
-          centro: 'Centro Agropecuario-Regional Risaralda',
+          centro:
+            'Centro de Formación de Talento Humano en Salud - Regional Distrito Capital',
         },
         {
           nombre: 'Laura Briguitte Perea Possos',
@@ -587,7 +588,7 @@ export default {
       autores: [
         {
           nombre: 'María Fernanda Pineda Mora',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {

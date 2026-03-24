@@ -270,12 +270,10 @@
       .col-lg-10
         .row.align-items-center.bg-r8.p-4.bg-12
           .col-lg-8 
-            ul.lista-ul.mb-0.bg-r8
-              li.d-flex.align-items-start
-                i.lista-ul__vineta
-                p.mb-0.text-start El Código Penal (Ley 599 de 2000) tipifica los delitos contra la libertad, integridad y formación sexual.
 
-            p.mb-1 Incluye conductas como:
+            p El Código Penal (Ley 599 de 2000) tipifica los delitos contra la libertad, integridad y formación sexual.
+
+            p Incluye conductas como:
 
             ul.lista-ul.mb-0.bg-r8
               li.d-flex.align-items-start
@@ -301,6 +299,8 @@
             figure(data-aos="fade-up")
               img(src='@/assets/curso/tema4/15.svg', alt='', style="width: 100%").m-auto 
 
+              
+
     .titulo-tres.mt-5: h3 Normas específicas de protección y atención
 
     p.mt-4 En el ámbito nacional, el marco jurídico colombiano establece disposiciones orientadas a la protección y atención integral de las personas víctimas de violencias sexuales, de acuerdo con la población y el tipo de violencia involucrada:
@@ -324,7 +324,7 @@
                       span.icono-img
                       p.mb-0 Asigna responsabilidades al sector salud, entre ellas:
                     
-                  ul.list.lista-ul--color.mb-0.bg-r8
+                  ul.list.lista-ul--color.mb-0.bg-r8.px-3
                     li.d-flex.align-items-start
                       i.lista-ul__vineta
                       p.mb-0.text-start Atención médica integral y de urgencias.
@@ -355,7 +355,7 @@
                       span.icono-img
                       p.mb-0 Obliga al sector salud a garantizar:
                     
-                  ul.list.lista-ul--color.mb-0.bg-r8
+                  ul.list.lista-ul--color.mb-0.bg-r8.px-3
                     li.d-flex.align-items-start
                       i.lista-ul__vineta
                       p.mb-0.text-start Atención integral y humanizada.
@@ -368,12 +368,11 @@
                       i.lista-ul__vineta
                       p.mb-0.text-start Prevención de la revictimización.
 
-              .row(titulo="Ley 1098 de 2006 " subtitulo="")
+              .row(titulo="Ley 1098 de 2006" subtitulo="Código de la Infancia y la Adolescencia")
                 .col-lg-2.d-none.d-lg-block
                   figure(data-aos="fade-up")
                     img(src='@/assets/curso/tema4/18.svg', alt='Texto que describa la imagen')
                 .col-lg-8.mb-4.mb-lg-0
-                  b Código de la Infancia y la Adolescencia
                   ul.lista-ul--color
                     li.d-flex.align-items-start
                       span.icono-img
@@ -387,7 +386,7 @@
                       span.icono-img
                       p.mb-0 Asigna al sector salud un rol prioritario en:
                     
-                  ul.list.lista-ul--color.mb-0.bg-r8
+                  ul.list.lista-ul--color.mb-0.bg-r8.px-3
                     li.d-flex.align-items-start
                       i.lista-ul__vineta
                       p.mb-0.text-start Detección temprana.
@@ -408,35 +407,35 @@
       .col-lg-10
         .row.align-items-center.bg-r8.p-4.bg-12
           .col-lg-8 
-            ul.lista-ul.mb-0.bg-r8
+            p
+              b Ley Estatutaria 1751 de 2015
+
+            ul.lista-ul.mb-0.bg-r8.mt-2
               li.d-flex.align-items-start
-                i.lista-ul__vineta
-                b.mb-0.text-start Ley Estatutaria 1751 de 2015
+                i.fa-solid.fa-circle.me-2.mt-1.width-vineta
+                p.mb-0.text-start Reconoce la salud como un derecho fundamental autónomo e irrenunciable.
 
-                  ul.lista-ul.mb-0.bg-r8
-                    li.d-flex.align-items-start
-                      i.lista-ul__vineta
-                      p.mb-0.text-start Reconoce la salud como un derecho fundamental autónomo e irrenunciable.
+              li.d-flex.align-items-start
+                i.fa-solid.fa-circle.me-2.mt-1.width-vineta
+                p.mb-0.text-start Establece la obligación de eliminar barreras de acceso a los servicios de salud.
 
-                    li.d-flex.align-items-start
-                      i.lista-ul__vineta
-                      p.mb-0.text-start Establece la obligación de eliminar barreras de acceso a los servicios de salud.
+              li.d-flex.align-items-start
+                i.fa-solid.fa-circle.me-2.mt-1.width-vineta
+                div.w-100
+                  p.mb-0.text-start Exige que la atención en casos de violencia sexual sea:
 
-                    li.d-flex.align-items-start
-                        i.lista-ul__vineta
-                        div.w-100
-                          p.mb-0.text-start Exige que la atención en casos de violencia sexual sea:
-                          //- Sublista como subhijo
-                          ul.lista-ul.mb-0.mt-2
-                            li.d-flex.align-items-start
-                              i.lista-ul__vineta
-                              p.mb-0.text-start Inmediata.
-                            li.d-flex.align-items-start
-                              i.lista-ul__vineta
-                              p.mb-0.text-start Continua.
-                            li.d-flex.align-items-start
-                              i.lista-ul__vineta
-                              p.mb-0.text-start Libre de condicionamientos administrativos, económicos o judiciales.
+            ul.lista-ul.mb-0.mt-2.px-3
+              li.d-flex.align-items-start
+                i.fa-regular.fa-circle.me-2.mt-1.width-vineta
+                p.mb-0.text-start Inmediata.
+
+              li.d-flex.align-items-start
+                i.fa-regular.fa-circle.me-2.mt-1.width-vineta
+                p.mb-0.text-start Continua.
+
+              li.d-flex.align-items-start
+                i.fa-regular.fa-circle.me-2.mt-1.width-vineta
+                p.mb-0.text-start Libre de condicionamientos administrativos, económicos o judiciales.
             
           .col-lg-4.d-none.d-lg-block
             figure(data-aos="fade-up")
@@ -570,7 +569,7 @@
                       
                 li.d-flex.align-items-start
                   span.icono-img
-                  p.mb-0 Incluye
+                  p.mb-0 Incluye:
                     ul.list.lista-ul--color.mb-0.bg-r8
                       li.d-flex.align-items-start
                         i.lista-ul__vineta
