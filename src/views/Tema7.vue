@@ -352,7 +352,7 @@
                   .circle-morado
                     figure(data-aos="zoom-in")
                       img(src='@/assets/curso/tema7/25.svg' style='width: 80px')
-              p.text-start En relación con el intercambio de información con otros sectores, se debe:
+              p.text-start En relación con el intercambio de información con otros sectores, este debe realizarse:
 
               ul.lista-ul--color
                 li.d-flex.align-items-start
