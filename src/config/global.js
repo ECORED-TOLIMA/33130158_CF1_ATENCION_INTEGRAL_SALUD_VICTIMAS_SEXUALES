@@ -488,16 +488,6 @@ export default {
     },
     {
       referencia:
-        'Organización Mundial de la Salud. (2003). <em>Guidelines for medico-legal care for victims of sexual violence</em>.',
-      link: '',
-    },
-    {
-      referencia:
-        'Organización Panamericana de la Salud. (2000). <em>Promoción de la salud sexual: recomendaciones para la acción</em>.',
-      link: '',
-    },
-    {
-      referencia:
         'Organización Internacional para las Migraciones. (2006). <em>Dimensiones de la trata de personas en Colombia</em>.',
       link:
         'https://publications.iom.int/books/dimensiones-de-la-trata-de-personas-en-colombia',
