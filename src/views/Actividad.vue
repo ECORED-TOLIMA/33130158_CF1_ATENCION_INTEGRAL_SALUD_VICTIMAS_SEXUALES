@@ -370,7 +370,7 @@ export default {
         },
         {
           id: 12,
-          texto: 'Opción a)\tLa legislación laboral.',
+          texto: 'Los derechos sexuales y reproductivos hacen parte de:',
           imagen: require('@/assets/actividad/imagen6.png'),
           barajarRespuestas: true,
           opciones: [
@@ -388,6 +388,11 @@ export default {
               id: 'c',
               texto: 'Los derechos humanos.',
               esCorrecta: true,
+            },
+            {
+              id: 'd',
+              texto: 'La legislación laboral.',
+              esCorrecta: false,
             },
           ],
           mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
