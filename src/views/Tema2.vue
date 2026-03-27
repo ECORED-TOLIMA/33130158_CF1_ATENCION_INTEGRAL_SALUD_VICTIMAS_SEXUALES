@@ -155,8 +155,7 @@
 
     p Entre las principales afectaciones en la salud sexual y reproductiva se encuentran las siguientes:
 
-    p.text-center.mt-4.mb-4.bg-14.bg-r8.p-3 
-      b Principales afectaciones de las violencias sexuales en la salud sexual y reproductiva
+
 
     .row.justify-content-center.mt-4
       .col-lg-3.mb-4.mb-lg-0

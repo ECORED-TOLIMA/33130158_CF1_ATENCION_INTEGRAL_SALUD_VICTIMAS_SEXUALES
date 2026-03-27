@@ -456,7 +456,7 @@
 
             li
               span.icono-img
-              p.mb-0 Ley 1146 de 2007 – Medidas de prevención y atención integral de la violencia sexual, especialmente en niños, niñas y adolescentes
+              p.mb-0 Ley 1146 de 2007 – Medidas de prevención y atención integral de la violencia sexual, especialmente en niños, niñas y adolescentes.
 
             li
               span.icono-img

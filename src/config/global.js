@@ -478,13 +478,14 @@ export default {
     },
     {
       referencia:
-        'Organización Mundial de la Salud. (2003). <em>Guidelines for medico-legal care for victims of sexual violence</em>.',
+        'Organización Mundial de la Salud. (2003). <em>Guidelines for medico-legal care of victims of sexual violence</em>.',
       link: 'https://apps.who.int/iris/handle/10665/42788',
     },
     {
       referencia:
         'Organización Panamericana de la Salud. (2000). <em>Promoción de la salud sexual: recomendaciones para la acción</em>.',
-      link: 'https://iris.paho.org/handle/10665.2/51848',
+      link:
+        'https://www.paho.org/sites/default/files/promocion_salud_sexual.pdf',
     },
     {
       referencia:
